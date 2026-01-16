@@ -7,7 +7,7 @@ This project focuses on **layout design, styling, dynamic product rendering, and
 ---
 
 ## 🚀 Live Demo
-👉 **
+👉 https://alok700.github.io/Myntra-Clone/
 
 ---
 
